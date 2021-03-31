@@ -228,6 +228,8 @@ h4{
     font-weight: lighter;
     opacity: 0.6;
     border: px solid green;
+    margin-bottom: 0px;
+    padding:0px;
 
   }
 
@@ -312,7 +314,7 @@ h4{
      .hr-style-line3{
        border-bottom: 2px solid orangered;
        width: 20%;
-       margin-left: 140px;
+       margin-left: 120px;
        padding: 0px;
        margin-top: 5px;
        margin-bottom: 50px;
@@ -391,7 +393,7 @@ span.branch-info{
  .unqiue-review-box{
      background: url("https://images.pexels.com/photos/7148673/pexels-photo-7148673.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260");
      background-size: 100% 100%;
-     height: 600px;
+     height: 400px;
      opacity: 0.9;
      color:rgb(255, 255, 255);
      font-size: 1rem;
@@ -403,7 +405,7 @@ span.branch-info{
  h5{
     text-align: center;
     padding-top: 30px;
-    font-size: 1.5rem;
+    font-size: 1rem;
     text-transform:uppercase;
     font-weight: lighter;
     opacity: 1;
@@ -426,30 +428,19 @@ span.branch-info{
     opacity: 1;
     letter-spacing: 2px;
     background-color: rgba(245, 245, 245, 0.055);
+    padding: 20px;
       
   }
-  .review-left{
+  .review-left,
+  .review-mid,
+  .review-right{
     border: px solid;
-    font-size: 0.7rem;
+    font-size: 0.6rem;
     width: 100%;
     margin: 0px;
    
   }
 
-  .review-mid{
-    border: px solid;
-    font-size: 0.7rem;
-    width: 100%;
-    margin: 0px;
-}
-
-.review-right{
-    border: px solid;
-    font-size: 0.7rem;
-    width: 100%;
-    margin: 0px;
-
-}
 
  /**----------------------------------------LIVE MUSIC PART STARTS------------------------------***/   
 /**--------------------------------------VIDEO STYLE----------------------------------------- **/
@@ -461,12 +452,7 @@ span.branch-info{
 /*-----------------*CONTACT US OR SIGN UP PART STARTS-----------------------------------------------
 /**-----------------------------------------------------------------------------------------------**/
   
-.form-part{
-    display: block;
-    border: px solid;
-   }
-   
-  
+
    label{
        opacity: 0.5;
        font-size: 1rem;
@@ -504,7 +490,7 @@ span.branch-info{
       border: 1px solid  rgb(255, 145, 0); 
       color:white;
       padding: 0px;
-      width: 100%;
+      width: 50%;
       height: 3rem;
       cursor: pointer;
       margin-left: 0px;
