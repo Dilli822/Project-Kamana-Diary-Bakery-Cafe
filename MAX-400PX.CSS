@@ -144,7 +144,7 @@ p.info{
     display: block;
     float: left;
     font-size: 4rem;
-    margin: 0px 18px;
+    margin-left: 25px;
     padding: 0px;
     border: px solid red;
    
@@ -274,7 +274,7 @@ h4{
     margin-top: 40px;
     display: inline-block;
     border: 2px solid  rgba(255, 68, 0, 0.877);
-    width: 13%;
+    width: 8%;
  }
 
  /**--------------------------DOT HOVER EFFECTS---------------------------**/
@@ -312,7 +312,7 @@ h4{
      .hr-style-line3{
        border-bottom: 2px solid orangered;
        width: 20%;
-       margin-left: 130px;
+       margin-left: 160px;
        padding: 0px;
        margin-top: 5px;
        margin-bottom: 50px;
