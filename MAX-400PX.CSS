@@ -337,7 +337,7 @@ h4{
 
 
     .branch1{
-    font-size: 1.15rem;
+    font-size: 1rem;
     border: px solid red;
     padding: 0px;
    }
@@ -369,7 +369,7 @@ h4{
    margin: 0px;
    border: px solid;
    opacity: 0.5;
-   font-size: 1.5rem;
+   font-size: 1.15rem;
    color:rgb(68, 64, 64);
 }
 /** ------------------------------FACEBOOK-ICONS FOR BRANCHES-------------------------------**/
@@ -439,7 +439,7 @@ span.branch-info{
     border: px solid;
     font-size: 0.5rem;
     width: 100%;
-    margin: 0px;
+    margin: 5px 5px;
    
   }
 
